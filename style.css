@@ -41,3 +41,13 @@ body{
     height: 300px;
     
 }
+
+.palavras{
+   flex-direction: column;
+   margin: 10px;
+}
+
+.botoes_1{
+    margin-left: 400px;
+    margin-bottom: 40px;
+}
