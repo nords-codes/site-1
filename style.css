@@ -50,4 +50,9 @@ body{
 .botoes_1{
     margin-left: 400px;
     margin-bottom: 40px;
+    border-radius: 6px;
+}
+
+.botao_diferente{
+    border-radius: 6px;
 }
