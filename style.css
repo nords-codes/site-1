@@ -1,0 +1,43 @@
+#parte_1{
+    display: flex;
+    
+}
+
+
+#parte_2{
+    display: flex;
+}
+
+
+#parte_3{
+    display: flex;
+}
+
+.conteudo_maior{
+    background-color: #cfe0f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 1300px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.conteudo_menor{
+    background-color: #cfe0f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 600px;
+    height: 400px;
+margin: 10px;
+border-radius: 10px;
+}
+
+body{
+    background-color: white;
+}
+
+#imagem_começo{
+    width: 300px;
+    height: 300px;
+    
+}
