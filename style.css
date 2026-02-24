@@ -30,6 +30,8 @@
     height: 400px;
 margin: 10px;
 border-radius: 10px;
+display: flex;
+
 }
 
 body{
@@ -43,6 +45,7 @@ body{
 }
 
 .palavras{
+    display: flex;
    flex-direction: column;
    margin: 10px;
 }
@@ -55,4 +58,8 @@ body{
 
 .botao_diferente{
     border-radius: 6px;
+}
+
+.palavra{
+    margin-left: 140px;
 }
