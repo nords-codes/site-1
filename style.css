@@ -65,5 +65,14 @@ body{
 }
 
 .espaço{
-    margin-left: 750px;
+    margin-left: 700px;
+}
+
+.img_parte{
+    width: 500px;
+    height: 400px;
+}
+
+.texte{
+    flex-direction: column;
 }
