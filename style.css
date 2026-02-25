@@ -54,10 +54,14 @@ body{
     margin-left: 400px;
     margin-bottom: 40px;
     border-radius: 6px;
+    background-color: rgb(42, 42, 253);
+    color: white;
 }
 
 .botao_diferente{
     border-radius: 6px;
+    color: white;
+    background-color: rgb(42, 42, 253);
 }
 
 .palavra{
@@ -69,10 +73,22 @@ body{
 }
 
 .img_parte{
-    width: 500px;
-    height: 400px;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin-left: 100px;
 }
 
 .texte{
     flex-direction: column;
+}
+
+#seçao_compras{
+    
+    background-color: white;
+    color: black;
+}
+
+.palavra_compra{
+
 }
